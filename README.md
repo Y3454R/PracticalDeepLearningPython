@@ -31,3 +31,10 @@ Updates:
 
     The file tutorial.pdf is a beginner's guide to NumPy, SciPy, Matplotlib, and Pillow.
 
+Setting up the environement:
+
+    pyenv install 3.8.2
+    pyenv virtualenv 3.8.2 practical-deep-learning-env
+    pyenv activate practical-deep-learning-env
+    pip install -r requirements.txt
+
